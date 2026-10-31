@@ -1,0 +1,24 @@
+{
+  "topic": "Oral Wegovy",
+  "query": "\"oral Wegovy\"",
+  "source": "Exa Search API snapshot, Apple Podcasts + iHeart result pages",
+  "windows": [
+    {
+      "date": "2026-01-12",
+      "unique_podcast_episode_pages": 7
+    },
+    {
+      "date": "2026-03-18",
+      "unique_podcast_episode_pages": 3
+    },
+    {
+      "date": "2026-05-21",
+      "unique_podcast_episode_pages": 3
+    },
+    {
+      "date": "2026-06-23",
+      "unique_podcast_episode_pages": 3
+    }
+  ],
+  "note": "Counts are deduplicated podcast episode pages returned by the fixed Exa query, not total mentions across all podcasts."
+}
